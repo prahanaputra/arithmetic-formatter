@@ -1,7 +1,5 @@
 def arithmetic_arranger(problems, calc = False):
     split_problems = [item.split() for item in problems]
-    # print (problems)
-    # print (split_problems)
     top = []
     mid = []
     math = []
